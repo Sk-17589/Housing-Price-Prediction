@@ -24,7 +24,7 @@ pip install -r requirements.txt
 1. Clone the repository:
    git clone https://github.com/Sk-17589/HousingPricePrediction.git
 
-3. Navigate to the project folder:
+2. Navigate to the project folder:
    cd HousingPricePrediction
 
 3.Install the required dependencies:
