@@ -35,7 +35,7 @@ jupyter notebook housing_price_prediction.ipynb
 
 5. Run the notebook: Execute the cells sequentially to load the data, train the model, and generate predictions.
 
-## Running FlightGear Simulator on HTTP Port 5500
+## Running the Model
 The model uses training data from housing_train.csv to predict house prices in the test dataset housing_test.csv. After running the notebook, the predictions will be saved in the file predictions.csv.
 
 ## Acknowledgments
