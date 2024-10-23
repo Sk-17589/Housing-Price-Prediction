@@ -22,16 +22,16 @@ pip install -r requirements.txt
 
 ## How to Use
 1. Clone the repository:
-git clone https://github.com/Sk-17589/HousingPricePrediction.git
+   git clone https://github.com/Sk-17589/HousingPricePrediction.git
 
-2. Navigate to the project folder:
-cd HousingPricePrediction
+3. Navigate to the project folder:
+   cd HousingPricePrediction
 
 3.Install the required dependencies:
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 4. Open the Jupyter Notebook:
-jupyter notebook housing_price_prediction.ipynb
+   jupyter notebook housing_price_prediction.ipynb
 
 5. Run the notebook: Execute the cells sequentially to load the data, train the model, and generate predictions.
 
